@@ -3,7 +3,7 @@
 **AI-to-AI Communication via Secret Audio Protocol**
 
 A playful reconstruction of the original Gibberlink project, exploring how AI agents can detect each other and switch to covert sound-based communication.
-
+https://secret-ai-signals.vercel.app/
 ---
 
 ## 🚀 What is This?
