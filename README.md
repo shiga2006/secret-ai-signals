@@ -62,7 +62,7 @@ Gibberlink Replica demonstrates an experimental protocol where two AI agents beg
 
 | Layer | Technology |
 |-------|-----------|
-| **Agents** | Python + OpenAI API / Anthropic Claude API |
+| **Agents** | Python + API |
 | **Audio Encoding** | ggwave / custom FSK modulation |
 | **Backend** | FastAPI / Flask + WebSockets |
 | **Frontend** | React / Vanilla JS + Web Audio API |
